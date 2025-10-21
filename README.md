@@ -31,6 +31,9 @@ bitboard-checkers/
 
 ## Build Instructions
 
+**gcc Phase2.c -o Phase2
+./Phase2**
+
 ### Prerequisites
 - GCC compiler
 - Make build system
